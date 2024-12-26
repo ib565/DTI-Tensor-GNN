@@ -1,0 +1,11 @@
+Test Results 2024-12-26 17:54:24.534548:
+Epochs = 5, voxels trained on = 100000, Batch_size = 32
+Test loss=25.172417
+MD Abs err = 0.0009182593793384615, FA Abs err = 0.11196797198406375, Ang err = 45.72285704588267
+------------------------------
+
+Test Results 2024-12-26 19:59:01.881267:
+Epochs = 130, voxels trained on = 100000, Batch_size = 32, Learning Rate = 0.0005
+Test loss=1.513820
+MD Abs err = 3.332398762478593e-05, FA Abs err = 0.05195011463801719, Ang err = 22.76198739767531
+------------------------------------------------------------

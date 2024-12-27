@@ -9,3 +9,10 @@ Epochs = 130, voxels trained on = 100000, Batch_size = 32, Learning Rate = 0.000
 Test loss=1.513820
 MD Abs err = 3.332398762478593e-05, FA Abs err = 0.05195011463801719, Ang err = 22.76198739767531
 ------------------------------------------------------------
+
+Test Results 2024-12-27 16:57:55.293282:
+USING SiLU
+Epochs = 100, voxels trained on = 100000, Batch_size = 32, Learning Rate = 0.0005
+Test loss=2.635362
+MD Abs err = 3.1936360087562314e-05, FA Abs err = 0.05589424132332851, Ang err = 14.428141098161422
+------------------------------------------------------------
